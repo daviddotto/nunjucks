@@ -1751,7 +1751,7 @@ Truncate to 6 characters and replace "..." with a  "?":
 **Output**
 
 ```jinja
-foo ba ?
+foo ba?
 ```
 
 ### upper

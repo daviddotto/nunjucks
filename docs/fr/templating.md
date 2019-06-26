@@ -1708,7 +1708,7 @@ Tronque 6 caractères et remplace "..." avec  "?" :
 **Sortie**
 
 ```jinja
-foo ba ?
+foo ba?
 ```
 
 ### upper
